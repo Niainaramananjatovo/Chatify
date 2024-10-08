@@ -1,0 +1,1 @@
+@extends('layouts/header', ['titre' => 'Settings', 'style' => '']) 
